@@ -18,8 +18,8 @@ The Accounting App is a simple and user-friendly application designed to help us
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/accounting-app.git
+   ```bash[
+   git clone https://github.com/yourusername/accounting-app.git](https://github.com/hyz615/RAccounting-Device.git
    ```
 
 2. **Install Dependencies**
