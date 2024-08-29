@@ -49,9 +49,7 @@ The Accounting App is a simple and user-friendly application designed to help us
 3. Use the MonthCalendar control to select dates.
 4. Data will be saved to the SQLite database, and you can view recorded transactions and statistics from the main interface.
 
-## Configuration
 
-The application comes with default settings suitable for most users, but you can modify them as needed. Configuration settings are located in `appsettings.json`.
 
 ## Contributing
 
